@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OnlineShoppingApplication/1.0.0": {
+        "dependencies": {
+          "DataCart": "1.0.0",
+          "ProcessCart": "1.0.0"
+        },
+        "runtime": {
+          "OnlineShoppingApplication.dll": {}
+        }
+      },
+      "DataCart/1.0.0": {
+        "runtime": {
+          "DataCart.dll": {}
+        }
+      },
+      "ProcessCart/1.0.0": {
+        "dependencies": {
+          "DataCart": "1.0.0"
+        },
+        "runtime": {
+          "ProcessCart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineShoppingApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProcessCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

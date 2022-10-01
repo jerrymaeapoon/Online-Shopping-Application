@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnlineShoppingApplication/1.0.0": {
+        "dependencies": {
+          "CartData": "1.0.0",
+          "CartProcess": "1.0.0"
+        },
+        "runtime": {
+          "OnlineShoppingApplication.dll": {}
+        }
+      },
+      "CartData/1.0.0": {
+        "runtime": {
+          "CartData.dll": {}
+        }
+      },
+      "CartProcess/1.0.0": {
+        "dependencies": {
+          "CartData": "1.0.0"
+        },
+        "runtime": {
+          "CartProcess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineShoppingApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CartData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CartProcess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
