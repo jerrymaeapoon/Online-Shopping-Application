@@ -1,0 +1,12 @@
+C:\Users\jeff\source\repos\CartData\bin\Debug\net6.0\CartData.deps.json
+C:\Users\jeff\source\repos\CartData\bin\Debug\net6.0\CartData.dll
+C:\Users\jeff\source\repos\CartData\bin\Debug\net6.0\CartData.pdb
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\CartData.csproj.AssemblyReference.cache
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\CartData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\CartData.AssemblyInfoInputs.cache
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\CartData.AssemblyInfo.cs
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\CartData.csproj.CoreCompileInputs.cache
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\CartData.dll
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\refint\CartData.dll
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\CartData.pdb
+C:\Users\jeff\source\repos\CartData\obj\Debug\net6.0\ref\CartData.dll

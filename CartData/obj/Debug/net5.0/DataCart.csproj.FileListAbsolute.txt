@@ -1,0 +1,12 @@
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\bin\Debug\net5.0\DataCart.deps.json
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\bin\Debug\net5.0\DataCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\bin\Debug\net5.0\ref\DataCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\bin\Debug\net5.0\DataCart.pdb
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\DataCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\DataCart.AssemblyInfoInputs.cache
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\DataCart.AssemblyInfo.cs
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\DataCart.csproj.CoreCompileInputs.cache
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\DataCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\ref\DataCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\DataCart.pdb
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartData\obj\Debug\net5.0\DataCart.csproj.AssemblyReference.cache
