@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProcessCart/1.0.0": {
+        "dependencies": {
+          "DataCart": "1.0.0"
+        },
+        "runtime": {
+          "ProcessCart.dll": {}
+        }
+      },
+      "DataCart/1.0.0": {
+        "runtime": {
+          "DataCart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcessCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

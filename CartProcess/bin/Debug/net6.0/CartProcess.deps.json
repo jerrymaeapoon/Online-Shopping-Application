@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CartProcess/1.0.0": {
+        "dependencies": {
+          "CartData": "1.0.0"
+        },
+        "runtime": {
+          "CartProcess.dll": {}
+        }
+      },
+      "CartData/1.0.0": {
+        "runtime": {
+          "CartData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CartProcess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CartData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

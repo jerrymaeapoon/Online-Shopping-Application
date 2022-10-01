@@ -1,0 +1,15 @@
+C:\Users\jeff\source\repos\CartProcess\bin\Debug\net6.0\CartProcess.deps.json
+C:\Users\jeff\source\repos\CartProcess\bin\Debug\net6.0\CartProcess.dll
+C:\Users\jeff\source\repos\CartProcess\bin\Debug\net6.0\CartProcess.pdb
+C:\Users\jeff\source\repos\CartProcess\bin\Debug\net6.0\CartData.dll
+C:\Users\jeff\source\repos\CartProcess\bin\Debug\net6.0\CartData.pdb
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.csproj.AssemblyReference.cache
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.AssemblyInfoInputs.cache
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.AssemblyInfo.cs
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.csproj.CoreCompileInputs.cache
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.csproj.CopyComplete
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.dll
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\refint\CartProcess.dll
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\CartProcess.pdb
+C:\Users\jeff\source\repos\CartProcess\obj\Debug\net6.0\ref\CartProcess.dll

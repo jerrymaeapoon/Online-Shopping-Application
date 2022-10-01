@@ -1,0 +1,15 @@
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\bin\Debug\net5.0\ProcessCart.deps.json
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\bin\Debug\net5.0\ProcessCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\bin\Debug\net5.0\ref\ProcessCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\bin\Debug\net5.0\ProcessCart.pdb
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\bin\Debug\net5.0\DataCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\bin\Debug\net5.0\DataCart.pdb
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.csproj.AssemblyReference.cache
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.AssemblyInfoInputs.cache
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.AssemblyInfo.cs
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.csproj.CoreCompileInputs.cache
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.csproj.CopyComplete
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ref\ProcessCart.dll
+C:\Users\bened\source\repos\Online-Shopping-Application\Online-Shopping-Application\CartProcess\obj\Debug\net5.0\ProcessCart.pdb
